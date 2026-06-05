@@ -60,7 +60,7 @@ Medicine_Reminder_System/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/Medicine-Reminder-System.git
+git clone https://github.com/praharsha-creator/Medicine-Reminder-System.git
 
 2. Open the project folder
 
@@ -103,8 +103,19 @@ python medicine_reminder.py
 * GUI using Tkinter
 * Mobile Application Version
 * Scheduled Automatic Alerts
+  
 
 ---
+
+## Requirements
+
+- Python 3.x
+- Pandas
+
+ 
+## Install dependencies:
+
+pip install pandas
 
 ## Author
 
